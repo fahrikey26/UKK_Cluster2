@@ -1,0 +1,14 @@
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\bin\Debug\net8.0\UKK_Cluster2.exe
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\bin\Debug\net8.0\UKK_Cluster2.deps.json
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\bin\Debug\net8.0\UKK_Cluster2.runtimeconfig.json
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\bin\Debug\net8.0\UKK_Cluster2.dll
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\bin\Debug\net8.0\UKK_Cluster2.pdb
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\UKK_Cluster2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\UKK_Cluster2.AssemblyInfoInputs.cache
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\UKK_Cluster2.AssemblyInfo.cs
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\UKK_Cluster2.csproj.CoreCompileInputs.cache
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\UKK_Cluster2.dll
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\refint\UKK_Cluster2.dll
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\UKK_Cluster2.pdb
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\UKK_Cluster2.genruntimeconfig.cache
+D:\Ki Zul\Phyton\LatUKK\UKK_cluster2\obj\Debug\net8.0\ref\UKK_Cluster2.dll
